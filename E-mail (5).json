@@ -673,16 +673,7 @@
       "typeVersion": 2.1,
       "position": [
         -832,
-        48
-      ],
-      "id": "3deb2df7-7532-4b2d-b17f-6541dbe240c8",
-      "name": "Reply to a message",
-      "webhookId": "9db2c33b-5fbc-4051-855b-e93be4ad1cec",
-      "credentials": {
-        "gmailOAuth2": {
-          "id": "Sz6tf57efkeKSTya",
-          "name": "Gmail account"
-        }
+        4
       }
     },
     {
@@ -838,15 +829,7 @@
       "position": [
         784,
         528
-      ],
-      "id": "60ac27b2-959b-4fee-9861-d6058cf841bf",
-      "name": "Reply to a message6",
-      "webhookId": "9db2c33b-5fbc-4051-855b-e93be4ad1cec",
-      "credentials": {
-        "gmailOAuth2": {
-          "id": "Sz6tf57efkeKSTya",
-          "name": "Gmail account"
-        }
+      ]        }
       }
     },
     {
@@ -1372,32 +1355,7 @@
           }
         ]
       ]
-    },
-    "Reply to a message": {
-      "main": [
-        [
-          {
-            "node": "Mark a message as read39",
-            "type": "main",
-            "index": 0
-          }
-        ]
-      ]
-    },
-    "Switch": {
-      "main": [
-        [
-          {
-            "node": "Check ATS Score >= ",
-            "type": "main",
-            "index": 0
-          }
-        ],
-        [
-          {
-            "node": "Reply to a message12",
-            "type": "main",
-            "index": 0
+    }
           }
         ]
       ]
@@ -1603,17 +1561,7 @@
       "id": "dG3bU5AXaXX6V9PT",
       "name": "Recruitment"
     },
-    {
-      "createdAt": "2025-09-18T09:52:45.198Z",
-      "updatedAt": "2025-09-18T09:52:45.198Z",
-      "id": "ilGpOCOZqhRsK2dI",
-      "name": "AI-Powered"
-    },
-    {
-      "createdAt": "2025-09-19T07:37:53.328Z",
-      "updatedAt": "2025-09-19T07:37:53.328Z",
-      "id": "p6BTfE4bIYXEjdPh",
-      "name": "Calendar Automation"
+  
     },
     {
       "createdAt": "2025-09-19T07:37:53.332Z",
